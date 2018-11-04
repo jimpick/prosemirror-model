@@ -1,4 +1,4 @@
-import OrderedMap from "orderedmap"
+import OrderedMap from "@jimpick/orderedmap"
 
 import {Node, TextNode} from "./node"
 import {Fragment} from "./fragment"
