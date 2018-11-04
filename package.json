@@ -1,8 +1,9 @@
 {
-  "name": "prosemirror-model",
-  "version": "1.6.3",
+  "name": "@jimpick/prosemirror-model",
+  "version": "1.6.3-1",
   "description": "ProseMirror's document model",
   "main": "dist/index.js",
+  "module": "src/index.js",
   "license": "MIT",
   "maintainers": [
     {
